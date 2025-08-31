@@ -2,6 +2,7 @@
 Tesla and GameStop revenue dashboards
 
 📊 Tesla & GameStop Stock and Revenue Dashboard
+
 📖 Overview
 This project is part of the IBM Data Science Professional Certificate (Final Assignment).
 The goal is to analyze the historical stock prices and quarterly revenues of Tesla (TSLA) and GameStop (GME), then visualize them in an interactive dashboard using Plotly.
